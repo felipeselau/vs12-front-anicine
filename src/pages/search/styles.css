@@ -1,0 +1,17 @@
+.search-container{
+    height: 85vh;
+}
+
+.search-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--white-2);
+}
+
+.search-input{
+    display: flex;
+    align-items: center;
+
+    gap: 2rem;
+}

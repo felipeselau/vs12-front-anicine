@@ -1,0 +1,14 @@
+.perfil-container p{
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--accent);
+}
+
+.perfil-container p span{
+    font-weight: 600;
+}
+
+.profile-picture img{
+    width: 300px;
+    border-radius: 50%;
+    border: 2px solid var(--accent);
+}

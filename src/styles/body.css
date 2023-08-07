@@ -1,0 +1,15 @@
+.body, .logo-container{
+    width: 90vw;
+    margin-left: 10vw;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-container{
+    padding-bottom: 1rem;
+}
+
+
